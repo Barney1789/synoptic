@@ -1,0 +1,19 @@
+{
+	"properties": [{
+			"id": 1,
+			"type": "House of Characters",
+			"description": "This house is tucked away in an alley",
+			"price": 50000,
+			"town": "Paola",
+			"finished": false
+		},
+		{
+			"id": 2,
+			"type": "Apartment",
+			"description": "This house is finished anf fully furnished",
+			"price": 250000,
+			"town": "Traxien",
+			"finished": true
+		}
+	]
+}
